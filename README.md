@@ -1,5 +1,6 @@
 # MyLib
-**SPACEWORK** {: style="color: green"}
+<span style="color: green; font-weight: bold;">SPACEWORK</span>
+
 
 #Création de librairie php
 #Legere
