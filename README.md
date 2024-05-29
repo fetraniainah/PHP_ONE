@@ -1,8 +1,4 @@
-# MyLib
-<span style="color: green; font-weight: bold;">SPACEWORK</span>
-
-
-#Création de librairie php
+# PHP
 #Legere
 #Route dynamique avec structure MVC 
 #PHP version 8 ++
